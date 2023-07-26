@@ -17,7 +17,9 @@ Considering the identified risks and goal of improving security posture, the fol
 #### Complience Regulations for Customer and Vendor Data Safety
 To ensure the safety of customer and vendor data and avoid fines and penalties, Botium Toys should adhere to the following compliance regulations:
 1. General Data Protection Regulations (GDPR): If Botium Toys deals with the personal data of EU citizens, they must comply with GDPR requirements for data protection and privacy.
-2. Payment Card Industry Data Security Standards (PCI DSS): If Botiu Toys processes credit card payments, they must comply with PCI DSS to safeguard cardolder data.
+2. Payment Card Industry Data Security Standards (PCI DSS): If Botium Toys processes credit card payments, they must comply with PCI DSS to safeguard cardolder data.
+3. SOC1 and SOC2 type reports: Botium Toys need to establish a secure user access for internal and external (third-party) personnel to mitigate a risk and ensure data safety.
+
 
 ### Control assessment 
 >Control assessment page is accessible from this link:
